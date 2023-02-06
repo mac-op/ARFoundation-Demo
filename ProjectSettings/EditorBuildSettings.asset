@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/cube.unity
+    guid: d1f1fcf9c3f7d024498995726740a17a
+  - enabled: 1
+    path: Assets/camera.unity
+    guid: 44733cd2b253828458c76b6b5d7eeb9d
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2c039d4ee3d1e01458c2e0c91663af4a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 97f4ddc63639cf9448cdcd9d881ed307, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a75d15740f5630b478566019bc57566c, type: 2}
