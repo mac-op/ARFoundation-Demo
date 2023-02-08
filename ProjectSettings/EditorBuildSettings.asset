@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/cube.unity
+    path: Assets/Scenes/cube.unity
     guid: d1f1fcf9c3f7d024498995726740a17a
   - enabled: 1
-    path: Assets/camera.unity
+    path: Assets/Scenes/camera.unity
     guid: 44733cd2b253828458c76b6b5d7eeb9d
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2c039d4ee3d1e01458c2e0c91663af4a, type: 2}
